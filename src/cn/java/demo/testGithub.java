@@ -21,6 +21,7 @@ public class testGithub {
     public static void main(String[] args) {
         System.out.println("hello,github01");
         System.out.println("hello,github02");
+        System.out.println("hello,github to remove");
     }
 
 }
