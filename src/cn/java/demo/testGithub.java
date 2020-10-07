@@ -25,6 +25,8 @@ public class testGithub {
         System.out.println("hello,github to local");
         System.out.println("hello,github to remove2");
         System.out.println("hello,github to remove 03");
+        System.out.println("hello,github to local02");
+        System.out.println("hello,github to local03");
 
     }
 
